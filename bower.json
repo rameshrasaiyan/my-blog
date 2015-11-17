@@ -1,0 +1,17 @@
+{
+  "name": "frontend-kickstart",
+  "description": "This repository will have all the required files to kick start a front end project.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Ramesh Rasaiyan"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rameshrasaiyan/my-blog",
+  "moduleType": [
+    "node"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4"
+  }
+}
